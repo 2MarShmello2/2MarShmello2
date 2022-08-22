@@ -5,7 +5,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on java projects
-- 🥅 My goal to 2021: Make my first step into the high-tech world
+- 🥅 My goal to 2022: Make my first step into the high-tech world
 - ⚡ Fun fact: I love gamming and nice views 
 - 📫 I'm available on Facebook and LinkedIn 
 
