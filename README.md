@@ -3,9 +3,9 @@
 
 ## I'm a Single ,Student and Developer!
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m Graduated with a degree in computer science
 - 💞️ I’m looking to collaborate on java projects
-- 🥅 My goal to 2024: Make my first step into the high-tech world
+- 🥅 My goal to 2025: Make my first step into the high-tech world
 - ⚡ Fun fact: I love gamming and nice views 
 - 📫 I'm available on Facebook and LinkedIn 
 
